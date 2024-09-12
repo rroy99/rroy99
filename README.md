@@ -47,13 +47,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rroy99&show_icons=true&locale=en&layout=compact&theme=radical" alt="rroy99" />
 </p>
 
-## 🚀 Latest Projects:
-- [🐶 Veterinary Clinic Website](#) - A full-stack web app for managing clinics, appointments, and user logins.
-- [🧠 AI-Powered Blog Series](#) - Writing insightful articles on AI and emerging technologies.
-
 ## 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/rroy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://github.com/rroy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/rroy99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://github.com/rroy99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40" width="40" /></a>
   <a href="https://stutipfu.blogspot.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blog" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/@robbinroy6164/featured/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/roy_robbin99/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" height="40" width="40" /></a>
+</p>
 </p>
