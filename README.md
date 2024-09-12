@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on several projects.
 - 🌱 I’m currently Learning **IBM Academy Advanced AI** at **Infinite Learning** 
 - 📝 I regularly write tech articles on [stutipfu.blogspot.com](https://stutipfu.blogspot.com/).
-- 💬 Ask me about **Web Development, AI, or Software Architecture**.
+- 💬 Ask me about **Web Development and AI**.
 - 👯 Always open to collaborating on interesting tech projects.
 - ⚡ Fun fact: just Ordinary Man with Ordinary Code
 
