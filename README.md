@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roy Robin</h1>
-<p align="center" style="font-size:18px;">A passionate web developer from Batam, Indonesia, 🇮🇩 with a love for coding, AI, and collaboration on innovative projects.</p>
+<p align="center" style="font-size:18px;">A passionate web developer from Batam, Indonesia.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rroy99&label=Profile%20views&color=0e75b6&style=flat" alt="rroy99" />
@@ -8,12 +8,12 @@
 </p>
 
 ## 👨‍💻 About Me:
-- 🔭 I’m currently working on several web and AI-related projects.
-- 🌱 Learning **Advanced AI** at **IBM Academy** and mastering **cloud computing**.
+- 🔭 I’m currently working on several projects.
+- 🌱 I’m currently Learning **IBM Academy Advanced AI** at **Infinite Learning** 
 - 📝 I regularly write tech articles on [stutipfu.blogspot.com](https://stutipfu.blogspot.com/).
 - 💬 Ask me about **Web Development, AI, or Software Architecture**.
 - 👯 Always open to collaborating on interesting tech projects.
-- ⚡ Fun fact: I love tech meetups and coding late at night!
+- ⚡ Fun fact: just Ordinary Man with Ordinary Code
 
 📫 **Reach out to me at**: royrobbin08@gmail.com
 
