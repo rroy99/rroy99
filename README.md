@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner Image"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Roy Robin</h1>
-<h7 align="center">A Passionate Web Developer from 🇮🇩 Batam, Indonesia</h7>
+<p align="center" style="font-size:18px;">A passionate web developer from Batam, Indonesia, 🇮🇩 with a love for coding, AI, and collaboration on innovative projects.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rroy99&label=Profile%20views&color=0e75b6&style=flat" alt="rroy99" />
