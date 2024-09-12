@@ -1,25 +1,8 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21109
-Fork on GitHub
-6565
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Roy Robin</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia Batam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rroy99&label=Profile%20views&color=0e75b6&style=flat" alt="rroy99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rroy99" alt="rroy99" /></a> </p>
 
 - 🔭 I’m currently working on **Several Projects**
 
