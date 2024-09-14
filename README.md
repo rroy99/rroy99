@@ -46,7 +46,7 @@
 
 ## 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/rroy99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/roy-robin-5b4853274/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://github.com/rroy99" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40" width="40" /></a>
   <a href="https://stutipfu.blogspot.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blog" height="40" width="40" /></a>
   <a href="https://www.youtube.com/@robbinroy6164/featured/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
