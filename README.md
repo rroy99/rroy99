@@ -13,7 +13,7 @@
 - 📝 I regularly write tech articles on [stutipfu.blogspot.com](https://stutipfu.blogspot.com/).
 - 💬 Ask me about **Web Development and AI**.
 - 👯 Always open to collaborating on interesting tech projects.
-- ⚡ Fun fact: just Ordinary Man with Ordinary Code
+- ⚡ Fun fact: just an Ordinary Man with Ordinary Code
 
 📫 **Reach out to me at**: royrobbin08@gmail.com
 
@@ -28,7 +28,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <!-- URL diperbarui -->
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -36,12 +36,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rroy99&show_icons=true&locale=en&theme=radical" alt="rroy99" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rroy99&theme=radical" alt="rroy99" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rroy99&show_icons=true&locale=en&layout=compact&theme=radical" alt="rroy99" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rroy99&show_icons=true&locale=en&theme=radical" alt="rroy99" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rroy99&theme=radical" alt="rroy99" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rroy99&show_icons=true&locale=en&layout=compact&theme=radical" alt="rroy99" style="max-width: 100%; height: auto;" />
 </p>
 
 ## 🌐 Connect with me:
@@ -51,5 +50,4 @@
   <a href="https://stutipfu.blogspot.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blog" height="40" width="40" /></a>
   <a href="https://www.youtube.com/@robbinroy6164/featured/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
   <a href="https://www.instagram.com/roy_robbin99/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" height="40" width="40" /></a>
-</p>
 </p>
