@@ -13,9 +13,9 @@
 - 📝 I regularly write tech articles on [stutipfu.blogspot.com](https://stutipfu.blogspot.com/).
 - 💬 Ask me about **Web Development and AI**.
 - 👯 Always open to collaborating on interesting tech projects.
-- ⚡ Fun fact: just an Ordinary Man with Ordinary Code
+- ⚡ Fun fact: Just an Ordinary Man with Ordinary Code.
 
-📫 **Reach out to me at**: royrobbin08@gmail.com
+📫 **Reach out to me at**: [royrobbin08@gmail.com](mailto:royrobbin08@gmail.com)
 
 ## 🛠 Languages and Tools:
 <p align="center">
